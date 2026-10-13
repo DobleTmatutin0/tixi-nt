@@ -1,2 +1,2 @@
-# tixi-nt
+# tixi'nt
 proyecto final de POO
